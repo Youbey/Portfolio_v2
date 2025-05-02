@@ -1,4 +1,4 @@
-# Ayoub Bendraou - Cybersecurity Engineer Portfolio
+# Cybersecurity Engineer Portfolio
 
 Welcome to the repository for my personal portfolio website. This repository contains the code for my portfolio, showcasing my projects, skills, and contact information.
 
