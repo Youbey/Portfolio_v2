@@ -40,7 +40,7 @@ The portfolio is built using HTML, CSS, and JavaScript. You can customize it by 
 ### Project Structure
 
 - **assets/css/**: Contains the CSS files for styling the portfolio.
-- **assets/images/**: Contains images used in the portfolio.
+- **images/**: Contains images used in the portfolio.
 - **index.html**: The main HTML file for the portfolio.
 - **README.md**: This file.
 
